@@ -92,6 +92,13 @@ Untuk pengujian integrasi, gunakan package `integration_test`.
 
 ## 🖼️ Screenshot Hasil  
 
+### Splash Screen 
+| Splash Screen |
+|:--:|
+| <img width="250" alt="Screenshot 2025-11-13 180346" src="https://github.com/user-attachments/assets/e8386fa9-1a04-405e-ae3a-7c85b4d2c6f5" /> |
+
+---
+
 ### 👤 Biodata & ☎️ Kontak  
 | Biodata | Kontak |
 |:--:|:--:|
